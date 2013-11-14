@@ -79,5 +79,5 @@
 <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
-<description>Import JAR files into a project local repository</description>
+<description>Import JAR files into a maven local project repository</description>
 </project>
