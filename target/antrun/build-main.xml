@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project name="maven-antrun-" default="main"  >
 <target name="main">
-  <delete dir="c:\DESENVOLVIMENTO\github\local-repo-importer/repo"/>
-  <mkdir dir="c:\DESENVOLVIMENTO\github\local-repo-importer/repo"/>
+  <delete dir="/Users/lossurdo/Programas/Desenvolvimento/github/local-repo-importer/repo"/>
+  <mkdir dir="/Users/lossurdo/Programas/Desenvolvimento/github/local-repo-importer/repo"/>
 </target>
 </project>
